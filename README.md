@@ -15,6 +15,3 @@ furnished to do so, subject to the following conditions:
 The above copyright notice and this permission notice shall be included in
 all copies or substantial portions of the Software.
 
-**The Software shall be used for Good, not Evil.**
-
-The Software shall be used for Good, not Evil.
