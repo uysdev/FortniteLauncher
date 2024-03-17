@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\FortniteLauncher\FortniteLauncher\bin\Debug\net8.0-windows\FortniteLauncher.exe
+C:\Users\User\source\repos\FortniteLauncher\FortniteLauncher\bin\Debug\net8.0-windows\FortniteLauncher.deps.json
+C:\Users\User\source\repos\FortniteLauncher\FortniteLauncher\bin\Debug\net8.0-windows\FortniteLauncher.runtimeconfig.json
+C:\Users\User\source\repos\FortniteLauncher\FortniteLauncher\bin\Debug\net8.0-windows\FortniteLauncher.dll
+C:\Users\User\source\repos\FortniteLauncher\FortniteLauncher\bin\Debug\net8.0-windows\FortniteLauncher.pdb
+C:\Users\User\source\repos\FortniteLauncher\FortniteLauncher\obj\Debug\net8.0-windows\FortniteLauncher.Form1.resources
+C:\Users\User\source\repos\FortniteLauncher\FortniteLauncher\obj\Debug\net8.0-windows\FortniteLauncher.csproj.GenerateResource.cache
+C:\Users\User\source\repos\FortniteLauncher\FortniteLauncher\obj\Debug\net8.0-windows\FortniteLauncher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\FortniteLauncher\FortniteLauncher\obj\Debug\net8.0-windows\FortniteLauncher.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\FortniteLauncher\FortniteLauncher\obj\Debug\net8.0-windows\FortniteLauncher.AssemblyInfo.cs
+C:\Users\User\source\repos\FortniteLauncher\FortniteLauncher\obj\Debug\net8.0-windows\FortniteLauncher.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FortniteLauncher\FortniteLauncher\obj\Debug\net8.0-windows\FortniteLauncher.dll
+C:\Users\User\source\repos\FortniteLauncher\FortniteLauncher\obj\Debug\net8.0-windows\refint\FortniteLauncher.dll
+C:\Users\User\source\repos\FortniteLauncher\FortniteLauncher\obj\Debug\net8.0-windows\FortniteLauncher.pdb
+C:\Users\User\source\repos\FortniteLauncher\FortniteLauncher\obj\Debug\net8.0-windows\FortniteLauncher.genruntimeconfig.cache
+C:\Users\User\source\repos\FortniteLauncher\FortniteLauncher\obj\Debug\net8.0-windows\ref\FortniteLauncher.dll
