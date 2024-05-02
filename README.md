@@ -1,7 +1,7 @@
 # FortniteLauncher
 simple fortnite launcher for older versions
 
-
+discord: hagixvirus
 
 Copyright 2024 uysdev
 
